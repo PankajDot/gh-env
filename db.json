@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "title": "Understanding JSON", "author": "Alex" },
+    { "id": 2, "title": "API Mocking Basics", "author": "Sarah" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Great post!", "postId": 1 },
+    { "id": 2, "body": "Very informative!", "postId": 2 }
+  ],
+  "profile": {
+    "name": "Alex"
+  }
+}
